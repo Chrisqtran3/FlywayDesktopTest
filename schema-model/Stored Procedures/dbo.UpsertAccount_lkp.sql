@@ -11,6 +11,7 @@ GO
 */
 
 -- Test Comment
+-- Test Comment from cloning repository
 
 CREATE procedure [dbo].[UpsertAccount_lkp]
 as
