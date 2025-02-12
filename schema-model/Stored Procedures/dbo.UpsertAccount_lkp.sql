@@ -10,6 +10,8 @@ GO
 		Please follow steps in this document: https://docs.google.com/document/d/1h6XBNuV36vx-c5PJ0TAHE4_kylbtWvFhEaIi9AKNSVc/edit
 */
 
+-- Test Comment
+
 CREATE procedure [dbo].[UpsertAccount_lkp]
 as
 	begin tran
